@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T13:39:56.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="nZ5BDKLaNlvG0roJeXfa" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-06T13:44:14.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="Ya6RgnK2rjTdBtv7vkmM" type="github" pages="2">
   <diagram id="pACce_eoA6zJGkhBHv7w" name="บันทึก">
-    <mxGraphModel dx="2062" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1214" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,9 +66,6 @@
         </mxCell>
         <mxCell id="j0Syfr4rRPROpqAFG1uq-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;เดือนที่ใช้&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="360" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j0Syfr4rRPROpqAFG1uq-13" value="Due date" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" vertex="1" parent="1">
-          <mxGeometry x="740" y="130" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j0Syfr4rRPROpqAFG1uq-14" value="01/11/2022" style="rounded=1;arcSize=9;fillColor=#ffffff;align=left;spacingLeft=5;strokeColor=#0057D8;html=1;strokeWidth=2;fontColor=#253858;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="405" y="390" width="150" height="33" as="geometry" />
@@ -254,62 +251,11 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="rkrF7DyD5McKqvtIe-qx" name="ใบแจ้งหนี้">
-    <mxGraphModel dx="2062" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="rkrF7DyD5McKqvtIe-qx" name="ตัวย่าง PDF">
+    <mxGraphModel dx="1214" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-1" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="20" width="810" height="710" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-3" value="7" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="405" y="160" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ราคาต่อหน่วย&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="130" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;มิเตอร์ไฟก่อน&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="210" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ค่าไฟ&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="210" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;เลขห้อง&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="130" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-8" value="&lt;font color=&quot;#ffffff&quot;&gt;บันทึก&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#66FFB3;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#0000CC;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="707.5" y="660" width="105" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-9" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;ใบแจ้งหนี้&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="320" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-10" value="ออกจากระบบ" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#A50040;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#007FFF;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="690" y="70" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-11" value="225.71" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="110" y="310" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;มิเตอร์ไฟปัจจุบัน&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-13" value="&lt;font color=&quot;#666666&quot;&gt;B604&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-14" value="0" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;fillColor=#4D4D4D;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="110" y="240" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-15" value="กลับ" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#D1D1D1;whiteSpace=wrap;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="57.5" y="650" width="105" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-16" value="&lt;font color=&quot;#666666&quot;&gt;1580&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;fillColor=#4D4D4D;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="405" y="240" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-17" value="225.71" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
-          <mxGeometry x="110" y="390" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="aSWJY-RBdRZGimwsFMHo-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ไฟใช้ไป&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="360" width="90" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
