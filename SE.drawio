@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T14:53:23.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dk05M5LxyBbCUVXHBAGc" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-07T15:29:09.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FdhpsL_gDexKl9A6taH3" version="20.6.0" type="github" pages="5">
   <diagram id="pACce_eoA6zJGkhBHv7w" name="meter">
-    <mxGraphModel dx="647" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,7 +252,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rkrF7DyD5McKqvtIe-qx" name="Bill">
-    <mxGraphModel dx="1562" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -575,7 +575,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QYpSjpM0Mp0i_D8kFd9Y" name="solve">
-    <mxGraphModel dx="1978" dy="-470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2732" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -975,7 +975,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aSpIXc-uyOIyozOONsgj" name="business">
-    <mxGraphModel dx="539" dy="238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="912" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1003,8 +1003,8 @@
         <mxCell id="7uQi7-L2RuHoh0qUufuI-6" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="600" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7uQi7-L2RuHoh0qUufuI-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;จัดทำระบบจดมิเตอร์&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้รู้หน่วยการใช้ไฟว่าใช้ไฟไปจำนวนเท่าไหร่&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="550" y="490" width="240" height="70" as="geometry" />
+        <mxCell id="7uQi7-L2RuHoh0qUufuI-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;จัดทำระบบจดมิเตอร์&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;สามารถคำนวณเรียกเก็บเงินค่าไฟฟ้ากับผู้เช่าได้อย่างมีประสิทธิภาพ&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="550" y="490" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7uQi7-L2RuHoh0qUufuI-8" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;จัดทำระบบจดมิเตอร์" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="595" width="140" height="70" as="geometry" />
@@ -1020,6 +1020,56 @@
             <mxPoint x="410" y="440" as="sourcePoint" />
             <mxPoint x="570" y="440" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LcddNqZcl920xYQIlQEQ" name="System ">
+    <mxGraphModel dx="971" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IR8qthDANemmQs7qu-ie-2" value="แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IR8qthDANemmQs7qu-ie-3" value="เข้าระบบในฐานะแอดมิน&lt;br&gt;ระบบหอพัก" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="275" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IR8qthDANemmQs7qu-ie-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="104.99999999999989" y="309.0000000000001" as="sourcePoint" />
+            <mxPoint x="265" y="309.44000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IR8qthDANemmQs7qu-ie-5" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.893;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IR8qthDANemmQs7qu-ie-6" target="IR8qthDANemmQs7qu-ie-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="240" as="sourcePoint" />
+            <mxPoint x="414" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IR8qthDANemmQs7qu-ie-6" value="จัดทำระบบบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pVgN8yuhmPcP59XM7X1D-1" value="แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="540" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pVgN8yuhmPcP59XM7X1D-2" value="เข้าระบบในฐานะแอดมิน&lt;br&gt;ระบบหอพัก" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="535" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pVgN8yuhmPcP59XM7X1D-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="105" y="569.0000000000001" as="sourcePoint" />
+            <mxPoint x="265" y="569.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVgN8yuhmPcP59XM7X1D-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.893;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pVgN8yuhmPcP59XM7X1D-5" target="pVgN8yuhmPcP59XM7X1D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="494" y="500" as="sourcePoint" />
+            <mxPoint x="414" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pVgN8yuhmPcP59XM7X1D-5" value="จัดทำระบบจดมิเตอร์" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
