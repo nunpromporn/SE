@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T15:29:09.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="FdhpsL_gDexKl9A6taH3" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-07T15:32:25.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hDeUVs1wM33FwqWrr_5i" version="20.6.0" type="github" pages="5">
   <diagram id="pACce_eoA6zJGkhBHv7w" name="meter">
     <mxGraphModel dx="995" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1025,7 +1025,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LcddNqZcl920xYQIlQEQ" name="System ">
-    <mxGraphModel dx="971" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1494" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1051,25 +1051,25 @@
           <mxGeometry x="480" y="150" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pVgN8yuhmPcP59XM7X1D-1" value="แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="540" width="30" height="60" as="geometry" />
+          <mxGeometry x="90" y="580" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVgN8yuhmPcP59XM7X1D-2" value="เข้าระบบในฐานะแอดมิน&lt;br&gt;ระบบหอพัก" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="535" width="140" height="70" as="geometry" />
+          <mxGeometry x="265" y="575" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pVgN8yuhmPcP59XM7X1D-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="105" y="569.0000000000001" as="sourcePoint" />
-            <mxPoint x="265" y="569.44" as="targetPoint" />
+            <mxPoint x="105" y="609.0000000000001" as="sourcePoint" />
+            <mxPoint x="265" y="609.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVgN8yuhmPcP59XM7X1D-4" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;entryX=0.893;entryY=0.214;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pVgN8yuhmPcP59XM7X1D-5" target="pVgN8yuhmPcP59XM7X1D-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="494" y="500" as="sourcePoint" />
-            <mxPoint x="414" y="500" as="targetPoint" />
+            <mxPoint x="494" y="540" as="sourcePoint" />
+            <mxPoint x="414" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pVgN8yuhmPcP59XM7X1D-5" value="จัดทำระบบจดมิเตอร์" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="410" width="140" height="70" as="geometry" />
+          <mxGeometry x="480" y="450" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
