@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T13:12:47.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="OebjWAxaWQ2sFxLJczYy" version="20.6.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-12-17T13:37:47.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="F0WqK1Y-Z_cZnVO5vhrQ" version="20.7.4" type="github" pages="14">
   <diagram id="pACce_eoA6zJGkhBHv7w" name="meter">
-    <mxGraphModel dx="971" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,7 +858,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LcddNqZcl920xYQIlQEQ" name="System ">
-    <mxGraphModel dx="971" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1866,7 +1866,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xBI3RZppRT9wzgVeyGAh" name="Design1">
-    <mxGraphModel dx="2158" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1995,7 +1995,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_ASW9x8yBSvflRQ8t6a9" name="Design2">
-    <mxGraphModel dx="890" dy="1050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2165,94 +2165,102 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qxMOhSayBDCeWBtDhrmh" name="หน้า-13">
-    <mxGraphModel dx="1618" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-1" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-1" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;ให้ระบบสามารถเพิ่มรายการบิลชำระค่าเช่า&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้ระบบสามารถบันทึกการแจ้งบิลชำระค่าเช่าให้แก่ผู้เช่าหอพัก&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;ให้ระบบสามารถเพิ่มรายการบิลชำระค่าเช่า&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้ระบบสามารถบันทึกการแจ้งบิลชำระค่าเช่าให้แก่ผู้เช่าหอพัก&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" parent="1" vertex="1">
           <mxGeometry x="600" y="260" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-3" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;เพิ่มรายการบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-3" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;เพิ่มรายการบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="265" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-4" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_E9C6CG0j1eWWaFoNuA-1" target="B_E9C6CG0j1eWWaFoNuA-3">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-4" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B_E9C6CG0j1eWWaFoNuA-1" target="B_E9C6CG0j1eWWaFoNuA-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="360" y="240" as="sourcePoint" />
             <mxPoint x="520" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-5" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B_E9C6CG0j1eWWaFoNuA-3" target="B_E9C6CG0j1eWWaFoNuA-2">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-5" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="B_E9C6CG0j1eWWaFoNuA-3" target="B_E9C6CG0j1eWWaFoNuA-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="410" y="110" as="sourcePoint" />
             <mxPoint x="570" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-31" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-31" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="430" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-32" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;ให้ระบบสามารถแสดงรายการบิลชำระค่าเช่า&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้ระบบสามารถบันทึกการแจ้งบิลชำระค่าเช่าให้แก่ผู้เช่าหอพัก&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-32" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;ให้ระบบสามารถแสดงรายการบิลชำระค่าเช่า&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้ระบบสามารถบันทึกการแจ้งบิลชำระค่าเช่าให้แก่ผู้เช่าหอพัก&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" parent="1" vertex="1">
           <mxGeometry x="600" y="420" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-33" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แสดงรายการบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-33" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แสดงรายการบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="425" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-34" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_E9C6CG0j1eWWaFoNuA-31" target="B_E9C6CG0j1eWWaFoNuA-33">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-34" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B_E9C6CG0j1eWWaFoNuA-31" target="B_E9C6CG0j1eWWaFoNuA-33" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="360" y="400" as="sourcePoint" />
             <mxPoint x="520" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-35" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B_E9C6CG0j1eWWaFoNuA-33" target="B_E9C6CG0j1eWWaFoNuA-32">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-35" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="B_E9C6CG0j1eWWaFoNuA-33" target="B_E9C6CG0j1eWWaFoNuA-32" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="410" y="270" as="sourcePoint" />
             <mxPoint x="570" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-36" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-36" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="580" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-37" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;ให้ระบบสามารถแก้ไขรายการบิลชำระค่าเช่า&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้ระบบสามารถบันทึกการแจ้งบิลชำระค่าเช่าให้แก่ผู้เช่าหอพัก&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-37" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;ให้ระบบสามารถแก้ไขรายการบิลชำระค่าเช่า&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้ระบบสามารถบันทึกการแจ้งบิลชำระค่าเช่าให้แก่ผู้เช่าหอพัก&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" parent="1" vertex="1">
           <mxGeometry x="600" y="570" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-38" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แก้ไขรายการบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-38" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แก้ไขรายการบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="575" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-39" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_E9C6CG0j1eWWaFoNuA-36" target="B_E9C6CG0j1eWWaFoNuA-38">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-39" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B_E9C6CG0j1eWWaFoNuA-36" target="B_E9C6CG0j1eWWaFoNuA-38" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="360" y="550" as="sourcePoint" />
             <mxPoint x="520" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-40" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B_E9C6CG0j1eWWaFoNuA-38" target="B_E9C6CG0j1eWWaFoNuA-37">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-40" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="B_E9C6CG0j1eWWaFoNuA-38" target="B_E9C6CG0j1eWWaFoNuA-37" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="410" y="420" as="sourcePoint" />
             <mxPoint x="570" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-41" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-41" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;แอดมิน" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="730" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-42" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;ให้ระบบสามารถลบรายการบิลชำระค่าเช่า&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้ระบบสามารถบันทึกการแจ้งบิลชำระค่าเช่าให้แก่ผู้เช่าหอพัก&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-42" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;ในบทบาทของ &lt;/b&gt;แอดมิน&lt;br&gt;&lt;b&gt;ฉันต้องการ &lt;/b&gt;ให้ระบบสามารถลบรายการบิลชำระค่าเช่า&lt;br&gt;&lt;b&gt;เพื่อ &lt;/b&gt;ให้ระบบสามารถบันทึกการแจ้งบิลชำระค่าเช่าให้แก่ผู้เช่าหอพัก&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=15;align=left;" parent="1" vertex="1">
           <mxGeometry x="600" y="720" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-43" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;ลบรายการบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-43" value="&amp;lt;&amp;lt;Business&amp;gt;&amp;gt;&lt;br&gt;ลบรายการบิลชำระค่าเช่า" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="725" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-44" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_E9C6CG0j1eWWaFoNuA-41" target="B_E9C6CG0j1eWWaFoNuA-43">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-44" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="B_E9C6CG0j1eWWaFoNuA-41" target="B_E9C6CG0j1eWWaFoNuA-43" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="360" y="700" as="sourcePoint" />
             <mxPoint x="520" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B_E9C6CG0j1eWWaFoNuA-45" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="B_E9C6CG0j1eWWaFoNuA-43" target="B_E9C6CG0j1eWWaFoNuA-42">
+        <mxCell id="B_E9C6CG0j1eWWaFoNuA-45" value="" style="endArrow=none;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="B_E9C6CG0j1eWWaFoNuA-43" target="B_E9C6CG0j1eWWaFoNuA-42" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="410" y="570" as="sourcePoint" />
             <mxPoint x="570" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oeAddWiDbTZfxFjtniam" name="หน้า-14">
+    <mxGraphModel dx="983" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
