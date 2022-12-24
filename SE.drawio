@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T04:45:23.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="B_RFdMj-wqw-BOZ-W2Rc" version="20.7.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-12-24T09:41:23.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_cDndsRitbwIDZa3epkJ" version="20.7.4" type="github" pages="16">
   <diagram id="pACce_eoA6zJGkhBHv7w" name="meter">
-    <mxGraphModel dx="1311" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="402" y="980" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="srml8oLjRkWSXQc64Kba-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;เลขห้อง&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="402" y="810" width="90" height="30" as="geometry" />
+          <mxGeometry x="402" y="890" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="srml8oLjRkWSXQc64Kba-32" value="&lt;font color=&quot;#ffffff&quot;&gt;บันทึก&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#66FFB3;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#0000CC;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="715" y="1340" width="105" height="40" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="110" y="1060" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="srml8oLjRkWSXQc64Kba-36" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#666666&quot;&gt;B203&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="402" y="840" width="240" height="30" as="geometry" />
+          <mxGeometry x="402" y="920" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="srml8oLjRkWSXQc64Kba-37" value="กลับ" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#D1D1D1;whiteSpace=wrap;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="50" y="1340" width="105" height="40" as="geometry" />
@@ -47,18 +47,15 @@
           <mxGeometry x="402" y="1060" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="srml8oLjRkWSXQc64Kba-40" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;เดือนที่ใช้&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="402" y="890" width="120" height="30" as="geometry" />
+          <mxGeometry x="110" y="820" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="srml8oLjRkWSXQc64Kba-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;01/11/2022-01/12/2022&lt;/font&gt;" style="rounded=1;arcSize=9;fillColor=#ffffff;align=left;spacingLeft=5;strokeColor=#0057D8;html=1;strokeWidth=2;fontColor=#253858;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="402" y="920" width="207" height="33" as="geometry" />
+          <mxGeometry x="110" y="850" width="207" height="33" as="geometry" />
         </mxCell>
         <mxCell id="srml8oLjRkWSXQc64Kba-42" value="" style="shape=mxgraph.gmdl.calendar;fillColor=#253858;strokeColor=none" parent="srml8oLjRkWSXQc64Kba-41" vertex="1">
           <mxGeometry x="1" y="0.5" width="18" height="18" relative="1" as="geometry">
             <mxPoint x="-29" y="-9" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="srml8oLjRkWSXQc64Kba-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;200&lt;/font&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="402" y="1010" width="157" height="40" as="geometry" />
         </mxCell>
         <mxCell id="srml8oLjRkWSXQc64Kba-44" value="คำนวณมิเตอร์" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="595.5" y="1010" width="119.5" height="40" as="geometry" />
@@ -82,16 +79,19 @@
           <mxGeometry x="110" y="1010" width="157" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nX753P0ocUIHsAxbUP-b-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Panadda Srisawat&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.comboBox;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;fillColor2=#aaddff;mainText=;fontSize=17;spacingLeft=3;" parent="1" vertex="1">
-          <mxGeometry x="110" y="840" width="240" height="30" as="geometry" />
+          <mxGeometry x="110" y="920" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ee-s5N4x7X4JjKIKPlF4-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ชื่อผู้ใช้&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="810" width="90" height="30" as="geometry" />
+          <mxGeometry x="110" y="890" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aQIl2cu0xYCaUsWaanm2-1" value="มิเตอร์ไฟ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aQIl2cu0xYCaUsWaanm2-1" value="มิเตอร์ไฟ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aQIl2cu0xYCaUsWaanm2-2" value="มิเตอร์น้ำ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aQIl2cu0xYCaUsWaanm2-2" value="มิเตอร์น้ำ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="282" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c54WLaAbrLY9rI8cFkJi-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;200&lt;/font&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;html=1;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="402" y="1010" width="157" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
