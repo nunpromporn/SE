@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-24T12:22:32.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bj2UX2-CliPraDP_-7Ue" version="20.7.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-12-24T12:28:21.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lt0M-68dRpwhRO8TJghw" version="20.7.4" type="github" pages="16">
   <diagram id="pACce_eoA6zJGkhBHv7w" name="meter">
-    <mxGraphModel dx="1238" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1238" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,12 +84,6 @@
         <mxCell id="Ee-s5N4x7X4JjKIKPlF4-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ชื่อผู้เช่า&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="900" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aQIl2cu0xYCaUsWaanm2-1" value="มิเตอร์ไฟ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="1500" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aQIl2cu0xYCaUsWaanm2-2" value="มิเตอร์น้ำ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="282" y="1500" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="c54WLaAbrLY9rI8cFkJi-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;200&lt;/font&gt;" style="rounded=1;arcSize=9;align=left;spacingLeft=5;html=1;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="402" y="1010" width="157" height="40" as="geometry" />
         </mxCell>
@@ -109,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rkrF7DyD5McKqvtIe-qx" name="Bill">
-    <mxGraphModel dx="1238" dy="-395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="-415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
