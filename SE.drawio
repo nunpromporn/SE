@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T04:27:16.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="7fchWA3aVy5t0LO8h3RY" version="20.8.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-01-24T04:29:03.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zLiEfnK25ZhJEoJW2HNs" version="20.8.7" type="github" pages="17">
   <diagram id="pACce_eoA6zJGkhBHv7w" name="meter">
     <mxGraphModel dx="1415" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3004,7 +3004,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RO7L5JV3b0LpW_9qqonF" name="หน้า-18">
-    <mxGraphModel dx="3779" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1945" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3077,9 +3077,6 @@
             <mxPoint x="566" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bdvKt31MsXbbOscAyvJv-110" value="ระบบย่อย ระบบบิลชำระค่าเช่า" style="shape=umlFrame;whiteSpace=wrap;html=1;width=180;height=20;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="10" width="1030" height="1520" as="geometry" />
-        </mxCell>
         <mxCell id="620ZsQ-MyHmmfY3fGN8Y-1" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;endArrow=open;endFill=0;strokeColor=#FF0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=1;" edge="1" parent="1" source="bdvKt31MsXbbOscAyvJv-41" target="bdvKt31MsXbbOscAyvJv-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="276.02857142857147" y="506" as="sourcePoint" />
@@ -3091,7 +3088,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bdvKt31MsXbbOscAyvJv-1" value="ระบบ" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="410" y="75" width="656" height="1927" as="geometry" />
+          <mxGeometry x="410" y="75" width="600" height="1950" as="geometry" />
         </mxCell>
         <mxCell id="bdvKt31MsXbbOscAyvJv-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bdvKt31MsXbbOscAyvJv-1" target="bdvKt31MsXbbOscAyvJv-3">
           <mxGeometry relative="1" as="geometry">
@@ -3578,6 +3575,9 @@
             <mxPoint x="248.51428571428596" y="1397.0083333333334" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bdvKt31MsXbbOscAyvJv-110" value="ระบบย่อย ระบบบิลชำระค่าเช่า" style="shape=umlFrame;whiteSpace=wrap;html=1;width=180;height=20;" vertex="1" parent="bdvKt31MsXbbOscAyvJv-1">
+          <mxGeometry x="-380" y="-45" width="1010" height="1995" as="geometry" />
         </mxCell>
         <mxCell id="bdvKt31MsXbbOscAyvJv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#FF0000;endArrow=open;endFill=0;strokeColor=#FF0000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bdvKt31MsXbbOscAyvJv-11" target="bdvKt31MsXbbOscAyvJv-12">
           <mxGeometry relative="1" as="geometry">
