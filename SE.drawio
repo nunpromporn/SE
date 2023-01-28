@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-24T11:50:42.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uVzr0u5cBG5q1MxNXqH9" version="20.8.10" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-01-28T09:03:21.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pCnXfwjOqXE0rwEE0zKL" version="20.8.13" type="github" pages="19">
   <diagram id="pACce_eoA6zJGkhBHv7w" name="meter">
     <mxGraphModel dx="1150" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rkrF7DyD5McKqvtIe-qx" name="Bill">
-    <mxGraphModel dx="639" dy="-604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="-595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,7 +429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QYpSjpM0Mp0i_D8kFd9Y" name="UI">
-    <mxGraphModel dx="1808" dy="-331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2319" dy="-322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2487,7 +2487,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bJcVLC1xe3u8VYaNCcYt-2" value="ระบบ" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="420" y="75" width="660" height="1505" as="geometry" />
+          <mxGeometry x="420" y="75" width="680" height="1505" as="geometry" />
         </mxCell>
         <mxCell id="bJcVLC1xe3u8VYaNCcYt-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="bJcVLC1xe3u8VYaNCcYt-2" target="bJcVLC1xe3u8VYaNCcYt-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2859,7 +2859,7 @@
           <mxGeometry x="220" y="1136" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bJcVLC1xe3u8VYaNCcYt-1" value="ระบบย่อย ระบบจดมิเตอร์" style="shape=umlFrame;whiteSpace=wrap;html=1;width=180;height=20;" parent="bJcVLC1xe3u8VYaNCcYt-2" vertex="1">
-          <mxGeometry x="-358" y="-35" width="1058" height="1565" as="geometry" />
+          <mxGeometry x="-358" y="-35" width="1038" height="1595" as="geometry" />
         </mxCell>
         <mxCell id="bJcVLC1xe3u8VYaNCcYt-43" value="แอดมิน" style="swimlane;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="80" y="75" width="340" height="1505" as="geometry" />
